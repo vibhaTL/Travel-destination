@@ -15,4 +15,5 @@ It’s a beautiful place in Tamil Nadu, India, with tea gardens and misty mounta
 
 ## Snapshot
 A beautiful image of Ooty will be added soon in the feature branch.
-Oty.png
+![Ooty View](Oty.png)
+
